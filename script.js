@@ -41,7 +41,7 @@ const students = [
 	{
 		
 		"question": "tôi có thể biết tên bạn? ",
-		"name" : "may i have your name please? ",
+		"name" : "may i have your name, please?",
 		"image": "assets/askname.jpg",
 	},
 	{
